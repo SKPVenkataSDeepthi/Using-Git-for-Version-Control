@@ -30,7 +30,7 @@ We’ll go over essential Git commands like `git commit`, `git push`, and `git p
 
 ---
 
-Master the merge and keep pushing forward!
+Master the merge and keep pushing forward! 🚀🧑‍💻
 
 💻 Happy Git learning! 🚀
 
