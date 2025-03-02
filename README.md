@@ -1,8 +1,8 @@
 # Git for Version Control
-Welcome to my ultimate guide on using **Git** for version control! Whether you're a data scientist or just starting out, this guide will help you navigate the basics and advanced Git workflows to streamline your version control process.
 
 ## ![Background](https://miro.medium.com/v2/resize:fit:1400/0*88tFt6xMUzwfyshK.gif)
 
+Welcome to my ultimate guide on using **Git** for version control! Whether you're a data scientist or just starting out, this guide will help you navigate the basics and advanced Git workflows to streamline your version control process.
 
 ## Overview
 
